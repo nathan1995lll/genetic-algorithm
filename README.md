@@ -1,2 +1,2 @@
 # genetic-algorithm
-GA
+遗传算法测试
